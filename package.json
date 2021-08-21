@@ -5,14 +5,19 @@
   "dependencies": {
     "@emotion/cache": "latest",
     "@emotion/react": "latest",
-    "@emotion/styled": "latest",
     "@emotion/server": "latest",
+    "@emotion/styled": "latest",
     "@material-ui/core": "next",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/styles": "^4.11.4",
     "clsx": "latest",
     "next": "latest",
     "prop-types": "latest",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "react-slick": "^0.28.1",
+    "slick-carousel": "^1.8.1",
+    "url-loader": "^4.1.1"
   },
   "scripts": {
     "dev": "next",

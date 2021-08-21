@@ -1,3 +1,6 @@
+import 'slick-carousel/slick/slick-theme.css';
+import 'slick-carousel/slick/slick.css';
+import '../src/style.css';
 import * as React from 'react';
 import PropTypes from 'prop-types';
 import Head from 'next/head';
