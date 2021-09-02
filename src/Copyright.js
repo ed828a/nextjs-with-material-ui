@@ -4,7 +4,7 @@ import MuiLink from '@material-ui/core/Link';
 
 export default function Copyright() {
   return (
-    <Typography variant="body2" color="textSecondary" align="center">
+    <Typography variant="body2" style={{ color: "white" }} align="center">
       {'Copyright © '}
       <MuiLink style={{color: 'white'}} href="https://material-ui.com/">
         Your Website
